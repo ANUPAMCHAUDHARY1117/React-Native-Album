@@ -4,4 +4,4 @@ This is a very simple React Native App calling open API and displaying the album
 
 #How to run the App.
 1. Run npm install to install all the dependencies
-2. Run command react-native run andrioid or react-native run-ios to run the app on emulator or physical device.
+2. Run command react-native run-andrioid or react-native run-ios to run the app on emulator or physical device.
